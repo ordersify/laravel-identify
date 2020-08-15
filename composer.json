@@ -1,5 +1,5 @@
 {
-    "name": "unicodeveloper/laravel-identify",
+    "name": "ordersify/laravel-identify",
     "description": "A Laravel 5 Package Provider to Identify/detect a user's browser, device, operating system and Language",
     "keywords": ["github", "laravel","Open Source","Evangelist", "Detect", "Identify", "Browser", "Operating System", "Language"],
     "license": "MIT",
@@ -11,7 +11,7 @@
    ],
    "require": {
     "php": ">=7.1.3",
-    "illuminate/support": "~5.7.0|~5.8.0",
+    "illuminate/support": "^6.0",
     "sinergi/browser-detector": "6.1.*"
    },
    "require-dev": {
